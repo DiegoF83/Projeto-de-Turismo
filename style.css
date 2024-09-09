@@ -1,0 +1,31 @@
+:root {
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background-image: url(assets/bg.jpg);
+  background-size: cover;
+  padding-top: 88px;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 137px;
+}   
+
+h1 {
+  font-size: 16px;
+  color: #E1624F; 
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 36px;
+  color: #1B1B1B;
+  font-weight: bold;
+}
+
+p {
+  padding-top: 24px;
+  font-size: 16px;
+  color: #333333;
+  font-style: italic;
+}
