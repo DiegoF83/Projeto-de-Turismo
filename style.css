@@ -18,11 +18,9 @@ h2 {
   font-size: 36px;
   color: #1B1B1B;
   font-weight: bold;
-  padding-bottom: 40px;
 }
 
 body {
-  background-image: url(assets/bg.jpg);
   padding: 80px 88px 137px;
 }  
 
@@ -55,9 +53,16 @@ h4 {
   padding-bottom: 8px;
 }
 
-p2, p3, p4, p5 {
+p3, p5, p7 {
   font-size: 16px;
   color: #333333;
+
+}
+
+p4, p6, p8 {
+  font-size: 16px;
+  color: #333333;
+  font-weight: bold;
 }
 
 img{
@@ -66,7 +71,7 @@ img{
 
 }
 
-h5 {
+h5, h6, h7 {
   font-size: 28px;
   font-weight: bold;
 }
@@ -83,9 +88,28 @@ ul2 li {
   font-weight: bold;
 }
 
-ul3 li {
-  background: (#591B98, #E5245E,  )
+h8 {
+  font-size: 16px;
+  color: #333333;
+  text-align: center; 
 }
+
+footer {
+  color: #333333;
+  text-align: center;
+  padding-bottom: 48px;
+  padding-top: 47px;
+}
+
+footer img {
+  vertical-align: middle;
+  padding: 0%;
+}
+
+
+
+
+
 
 
 
